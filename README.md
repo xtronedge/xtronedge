@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,50:00FFFF,100:0D1117&height=200&section=header&text=X-TRON%20EDGE&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&font=Audiowide" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Gamer+%7C+Creator;Web+%7C+Bots+%7C+FiveM+%7C+PC+Optimization;Building+Premium+Tools+for+Gamers+%26+Communities;Silence+Is+My+Habit%2C+Not+My+Limit+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%7C+Performance+Engineer;Web+%7C+Bots+%7C+FiveM+%7C+Windows+Optimization;Building+Production-Ready+Gaming+Tools;Silence+Is+My+Habit%2C+Not+My+Limit+%E2%9A%A1" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/xtronedge?style=for-the-badge&logo=github&color=0D1117&labelColor=9400D3)](https://github.com/xtronedge)
 [![Profile views](https://komarev.com/ghpvc/?username=xtronedge&label=Profile%20Views&color=00FFFF&style=for-the-badge)](https://github.com/xtronedge)
@@ -11,31 +11,72 @@
 
 ---
 
-## 🎮 About Me
+## 👨‍💻 Developer Profile
 
 ```yaml
-alias: X-TRON EDGE
-role: Full-Stack Developer / Gamer / Builder
+name: X-TRON EDGE
+role: Full-Stack Developer / Performance Engineer
 location: Bangladesh
-status: Online & Crafting
+status: Building & Shipping
 motto: Silence is my habit, not my limit
-mission: Build fast, clean, premium tools for gamers and digital communities
-currently_crafting:
-  - Latency Killer (Windows + Web)
+philosophy:
+  - Write clean, maintainable, production-ready code
+  - Optimize for real-world performance, not just visuals
+  - Ship tools that solve actual gamer and business problems
+  - Design interfaces that feel premium and convert
+specialization:
+  - Windows PC performance tuning
+  - Full-stack web applications
+  - Discord & Telegram automation
+  - FiveM server tooling
+  - E-commerce and deployment workflows
+currently_building:
+  - Latency Killer (Flagship Product)
   - Glowina Games Platform
   - FIFA Live Experience
   - FiveX Check (FiveM Tooling)
-  - Smooth Cheaters Stack
-stack:
-  frontend: [React, Next.js, Vue, Tailwind, TypeScript]
-  backend: [Node.js, Python, PowerShell]
-  platforms: [FiveM, Discord, Telegram, Windows]
-  focus: [FPS, Latency, Automation, Premium UI]
+  - OPFW Bot by X-TRON
+tech_stack:
+  languages: [TypeScript, JavaScript, Python, PowerShell]
+  frontend: [React, Next.js, Vue, Tailwind CSS]
+  backend: [Node.js, Python]
+  platforms: [Windows, FiveM, Discord, Telegram]
+  devops: [VPS, CI/CD, Domain & Hosting Setup]
 ```
 
-I build **high-performance gaming tools**, **automation systems**, and **modern web products** with a premium developer mindset. From PC tuning and FiveM utilities to bots, dashboards, and full-stack apps, I focus on speed, reliability, and clean user experience.
+I am a developer who builds **performance-focused software**, **automation systems**, and **modern digital products** for gamers, communities, and businesses. My work sits at the intersection of engineering, optimization, and product design.
 
-> Building something big. Not today, not tomorrow. But definitely one day. ⚡
+I care about architecture, execution speed, UI quality, and long-term maintainability. Whether it is a Windows optimization suite, a FiveM utility, or a full web platform, I aim to deliver tools that feel professional from day one.
+
+---
+
+## 🚀 Flagship Project: Latency Killer
+
+<table>
+<tr>
+<td width="100%">
+
+**Latency Killer** is my primary product and the project I am actively developing and refining.
+
+It is built for serious gamers who want measurable performance gains through precision system tuning.
+
+**What it does**
+- Boosts FPS through optimized Windows configuration
+- Reduces ping and network latency
+- Applies 150+ precision tweaks for gaming performance
+- Focuses on stability, speed, and real-world results
+
+**Project repos**
+- Public Releases: [latencykiller-releases](https://github.com/xtronedge/latencykiller-releases)
+- Windows Core Build: `Latency-Killer-Win10` (Private)
+
+**Stack:** `PowerShell` `Windows` `Performance Engineering` `System Optimization`
+
+**Developer focus:** tuning logic, safe automation, repeatable optimization flows, and product-ready release management.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,39 +87,39 @@ I build **high-performance gaming tools**, **automation systems**, and **modern 
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
-React · Next · Tailwind · TypeScript  
-Modern, fast, responsive web apps
+React · Next.js · Tailwind · TypeScript  
+Scalable, responsive, production-ready web apps
 
 ### 🤖 Discord Bots
 Moderation · Music · Tickets · Custom Logic  
-Smart automation for communities
+Custom automation for communities and teams
 
 ### ✈️ Telegram Bots
 Automation · Alerts · Payments · Scrapers  
-Reliable bot systems for business flows
+Reliable bots for workflows and business use
 
 ### 🎮 FiveM Tooling
 Server utilities · Anti-cheat · Dashboards  
-Tools built for serious RP servers
+Custom tools for RP servers and admins
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ PC Optimization
 FPS · Latency · Ping · System Tuning  
-Performance-focused Windows optimization
+Advanced Windows optimization for gamers
 
 ### 🛒 E-commerce
 Storefronts · Checkout · Inventory · BD Focus  
-Conversion-ready online business setups
+Business-ready online store development
 
 ### 🎨 UI / UX Design
 Modern · Premium · Conversion-Focused  
-Clean interfaces with strong visual identity
+Clean design systems with strong usability
 
 ### 🖥️ Hosting & Deploy
 VPS Setup · Domains · CI/CD · Monitoring  
-Stable deployment and production support
+Deployment, hosting, and production support
 
 </td>
 </tr>
@@ -86,21 +127,37 @@ Stable deployment and production support
 
 ---
 
-## ⚔️ Featured Projects
+## ⚔️ Other Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚀 [**Latency Killer**](https://github.com/xtronedge/latencykiller-releases) | Advanced PC optimization for gamers. Boost FPS, reduce ping, 150+ precision tweaks | `PowerShell` `Windows` `Performance` |
-| 🎯 **Glowina Games** | Private gaming platform and game-related web stack | `TypeScript` `Web` |
-| ⚽ **FIFA Live** | Private live-style gaming experience build | `TypeScript` |
-| 🛡️ **FiveX Check** | Private FiveM verification and server-side tooling suite | `TypeScript` `Python` |
-| 🧩 **Smooth Cheaters** | Private gaming utility stack (TypeScript) | `TypeScript` |
-| 🌐 **LK Windows Website** | Latency Killer product website and landing experience | `TypeScript` |
-| 🤖 **OPFW Bot by X-TRON** | Private FiveM / community automation bot | `JavaScript` |
+| Project | Type | Description | Stack |
+|---------|------|-------------|-------|
+| 🎯 **Glowina Games** | Private | Gaming platform and interactive web experience | `TypeScript` `Web` |
+| ⚽ **FIFA Live** | Private | Live-style sports/gaming experience build | `TypeScript` |
+| 🛡️ **FiveX Check** | Private | FiveM verification and server-side tooling suite | `TypeScript` `Python` |
+| 🤖 **OPFW Bot by X-TRON** | Private | Community and server automation bot | `JavaScript` |
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧠 How I Work
+
+```text
+01. Understand the problem deeply
+02. Design a clean and scalable solution
+03. Build with performance and UX in mind
+04. Test in real-world conditions
+05. Ship, monitor, and improve continuously
+```
+
+**What clients and teams can expect from me**
+- Clear communication and structured development
+- Premium UI with strong technical execution
+- Practical solutions instead of overcomplicated systems
+- Fast iteration without sacrificing code quality
+- Strong focus on gaming, automation, and product delivery
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -113,14 +170,13 @@ Stable deployment and production support
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -133,7 +189,7 @@ Stable deployment and production support
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -143,15 +199,15 @@ Stable deployment and production support
 
 ---
 
-## 🎯 Core Focus
+## 🎯 Expertise Levels
 
 ```text
-[██████████████████░░] Web Development        90%
-[████████████████░░░░] PC Optimization        85%
-[██████████████░░░░░░] FiveM Tooling         75%
-[██████████████████░░] Discord / Telegram Bots 88%
-[███████████████░░░░░] UI / UX Design         80%
-[██████████████░░░░░░] Hosting & Deploy       72%
+[██████████████████░░] Web Development           90%
+[██████████████████░░] PC Optimization / Tuning    92%
+[██████████████░░░░░░] FiveM Tooling              75%
+[██████████████████░░] Discord / Telegram Bots    88%
+[███████████████░░░░░] UI / UX Design             80%
+[██████████████░░░░░░] Hosting & Deployment       72%
 ```
 
 ---
@@ -162,13 +218,15 @@ Stable deployment and production support
 
 [![GitHub](https://img.shields.io/badge/GitHub-xtronedge-0D1117?style=for-the-badge&logo=github&labelColor=9400D3)](https://github.com/xtronedge)
 
+**Open to collaborations, custom tools, bots, optimization software, and premium web builds.**
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Play hard. Code harder. Build premium.
+### ⚡ Engineering performance. Building products. Delivering quality.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,100:0D1117&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FFFF&animation=twinkling&font=Audiowide" />
 
