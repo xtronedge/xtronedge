@@ -18,7 +18,7 @@ name: X-TRON EDGE
 role: Full-Stack Developer / Performance Engineer
 location: Bangladesh
 status: Building & Shipping
-motto: Silence is my habit, not my limit
+motto: Building Something New......
 philosophy:
   - Write clean, maintainable, production-ready code
   - Optimize for real-world performance, not just visuals
